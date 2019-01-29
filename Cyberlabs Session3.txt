@@ -2,7 +2,7 @@ CYBERLABS
 WEB DEVELOPMENT TEAM
 SESSION NO.-3
 DATE-28/01/2019
-TAKEN BY---> SANKET SIR
+TAKEN BY---> SANKET SINGH
 
 SESSION SUMMARY:-
 1.General Introduction About Mixins---> Explicit Mixins and Implicit Mixins
