@@ -4,27 +4,46 @@ Date : 30|01|2019
 
 YOU DON'T KNOW JAVASCRIPT : VOLUME 4 Topics covered:
 
+Session was taken by : Rajrani Barnwal(3rd year)
+
 1. Built-in types of VALUES
 
+
 2. Built-in classes and their properties and functions (in brief) :-
+
 (i) Arrays and array-like objects
+
 (ii) String
+
 (iii) Number
 
+
 3. Some useful tricks for mathematical calculations:
+
 (i) Use of Number.EPSILON for Comparison of floating values
+
 (ii) Checking for an integer using % operator
+
 (iii) Converting float to 32-bit signed integer using bitwise OR with 0
 
-4. More about Mathematics in JS:-
+
+5. More about Mathematics in JS:-
+
 (i) Concept of 0 and -0
+
 (ii) Concept of Inf, Safe integer, MAX_VALUE and NaN 
 
-4. Creating a Polyfilling function ( with Example of isNaN() )
 
-5. More about Natives:-
+6. Creating a Polyfilling function ( with Example of isNaN() )
+
+
+7. More about Natives:-
+
 (i) Using constructors
+
 (ii) Native Prototypes
+
 (iii) Introduction of Symbol() as native type in ES6
 
-6. Object Wrappers
+
+8. Object Wrappers
