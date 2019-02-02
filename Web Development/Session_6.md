@@ -9,11 +9,17 @@
 ## Topics Covered
 
 Native Prototype
+
 JSON.stringify
+
 To Number Coercion 
+
 Truthy and Falsy values
+
 32 bit wise operator
+
 2’s complement
+
 unary operators
 
 ## References/Links
