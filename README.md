@@ -1,2 +1,3 @@
-# WebDev-Sessions
-Report of all Web Development Sessions
+# Session Reports
+
+Report of all sessions held at Cyber Labs.
