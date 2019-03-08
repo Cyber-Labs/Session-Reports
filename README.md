@@ -1,3 +1,3 @@
 # Session Reports
 
-Report of all sessions held at Cyber Labs.
+Reports of all the sessions held at Cyber Labs.
