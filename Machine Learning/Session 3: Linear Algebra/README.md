@@ -1,6 +1,6 @@
-# Session 8
+# Session 3
 
-Basic Linear Algebra 
+Basic Linear Algebra
 
 ## Resources
 
@@ -26,8 +26,8 @@ Basic Linear Algebra
 * Solving linear equation-
 	* Guassian elimination method
 	* LU decomposition method
-* Eigen Decomposition 
-* Singular value decomposition 
+* Eigen Decomposition
+* Singular value decomposition
 
 ## Credits
 

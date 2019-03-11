@@ -1,7 +1,7 @@
 
-# Session 6
+# Session 7
 
-Paper reading session 
+Paper reading session
 Image Net Classification with Deep Convolutional Neural Network by A Krizhevsky - ‎2012
 ## Resources
 
@@ -24,18 +24,18 @@ Link to paper -- [Image Net Classification with Deep Convolutional Neural Networ
 
 * Activation
 	* ReLU
-		* Formula -- max(0,x) 
+		* Formula -- max(0,x)
 		* Why preferred over sigmoid and tanh?
 			 * Gives a faster learning rate which is good for large networks as it's gradient does not saturate even for high values
 
 * Local Response Normalization
 	* Local normalization scheme was used to aid generalization after ReLU.
 	* This layer is somewhat like Batch Norm.
-	* A good article on [LRN](https://prateekvjoshi.com/2016/04/05/what-is-local-response-normalization-in-convolutional-neural-networks/) 
+	* A good article on [LRN](https://prateekvjoshi.com/2016/04/05/what-is-local-response-normalization-in-convolutional-neural-networks/)
 
 * Architecture
 	* Overview --
-		*  8 layers with weights 
+		*  8 layers with weights
 		* First 5 convolutional layers
 		* 3 Fully Connected layers
 		* 1000 way softmax
@@ -52,15 +52,15 @@ Link to paper -- [Image Net Classification with Deep Convolutional Neural Networ
 		* A 0.5 probability dropout was applied
 		* It reduces complex co-adaptation of neurons since a neuron can't rely on the presence of particular other neuron
 	* Applied on fully connected layers
-	
-* Optimizer 
+
+* Optimizer
 	* A 128 length batch gradient descent was applied with 0.9 momentum
 	* Learning Rate --
-		* Divide the learning rate by 10 when validation error stops improving 
+		* Divide the learning rate by 10 when validation error stops improving
 		* Started with 0.01 ended in 0.00001
 
 ## Discussion
-* Receptive field of first convolution layer is very large which may lead to over fitting due to large number of parameters alternatively, same receptive field can be realised by using deep network with small kernel size. 
+* Receptive field of first convolution layer is very large which may lead to over fitting due to large number of parameters alternatively, same receptive field can be realised by using deep network with small kernel size.
 * Dropout means randomly removing the given fraction of neurons from the layer. It does not mean removing the neurons whose probability in the randomly generated matrix is greater or less that a given fraction (Wrong interpretation from Andrew NG exercise)
 
 

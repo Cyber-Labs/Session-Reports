@@ -1,10 +1,10 @@
-# Session 3
+# Session 4
 
 Introduction to OpenCV and some advanced pre-processing operations.
 
 ## Resources
 
-The notebook used for the session can be found [here](./Session%203.ipynb).
+The notebook used for the session can be found [here](./Session%204.ipynb).
 
 ## Brief Summary
 
@@ -13,7 +13,7 @@ Following topics were covered:
 - Install OpenCV
 - **Images**: Reading, saving and plotting, converting to other modes
 - **Drawing**: lines and shapes on image
-- **Basic Image Manipulation**: 
+- **Basic Image Manipulation**:
   - Resizing
   - Blurring
     - Average

@@ -1,21 +1,21 @@
-# Session 5
+# Session 7
 
 Introductory session on Keras and preliminary concepts of deep learning.
 
 ## Resources
 
-The notebook used for the session can be found [here](./Session%205.ipynb).
+The notebook used for the session can be found [here](./Session%206.ipynb).
 
 ## Brief Summary
 
 - **Concepts**:
   - Mini - Batch Gradient Descent		
-  - Batch Normalisation	
-  - Dropout 
-- **Convolutional Neural Networks** :	
+  - Batch Normalisation
+  - Dropout
+- **Convolutional Neural Networks** :
   - Kernels and filters
   - Max Pooling layers
-- **Keras**:	
+- **Keras**:
   - **Constructing a keras model**
     - Sequential API
     - Model API
@@ -24,7 +24,7 @@ The notebook used for the session can be found [here](./Session%205.ipynb).
     - Compiling and training
     - Saving and Loading
     - Predicting on test data
-- **HW**:	
+- **HW**:
   - Train mnist dataset on colab using keras
   - Reach DeepLearning.ai Course 3
 

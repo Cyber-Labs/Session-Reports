@@ -1,4 +1,4 @@
-# Session 4
+# Session 5
 
 12-hour long Kaggle competition marathon. Members were divided into groups of 3 to work on a Kaggle InClass competition "Suicide Rates Prediction", hosted by Cyber Labs on Kaggle.
 
