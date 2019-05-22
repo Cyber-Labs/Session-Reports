@@ -8,7 +8,7 @@
 
 - **Implementation of Retrofit Networking Library**: 
     - Covered its advantages over other libraries like Volley.
-    - Covered annotation-"@SerializedName("")" to get response.
+    - Covered annotation- @SerializedName which allows to create choice based variable names.
     - Created a working application to fetch data from "https://api.github.com/users" in a pojo class. .
 
 - **Interface**: 
