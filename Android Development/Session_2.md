@@ -1,8 +1,8 @@
-# ANDROID DEVELOPMENT: SESSION 1
+# ANDROID DEVELOPMENT: SESSION 2
 
 **Date** : 13/02/2019
 
-**Conducted by**: Perul Jain and xyz 
+**Conducted by**: Perul Jain and Aman Pandey
 
 ## Topics Covered
 
@@ -18,4 +18,4 @@
 
 ## Tasks
 
-(a)  Create a simple Android application implementing the above taught topics.
+(a)  Create a simple News application by calling request to "https://newsapi.org/" using retrofit and show them in a Recycler View.
