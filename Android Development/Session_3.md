@@ -2,24 +2,24 @@
 
 **Date** : 16/03/2019
 
-**Conducted by**: Sridhar Goel and Tazril Ali 
+**Conducted by**: Shridhar Goel and Tazril Ali 
 
 ## Topics Covered
 
-- **FireBase Authentication**: 
+- **Firebase Authentication**: 
     - Covered various types of authentications provided by google firebase..
     - Covered UI-Auth Dependency which manages authentication with its own custom UI and provides an abstract layer.
     - Covered creating users, signing in, email verification and forgot password services.
 
-- **Firebase DataBase and FireStorage**: 
+- **Firebase Database and Firebase Storage**: 
 
   - Learnt about JSON structure and how data is organized in nodes.
-  - Learnt adding data into the FireBase Database by creating unique key and saving object class in it.
-  - Discussed the documentations for storing files in Cloud Storage and getting its unique url to access it.
+  - Learnt adding data into the Firebase Database by creating unique key and saving object class in it.
+  - Discussed the documentations for storing files in Firebase Storage and getting its unique url to access it.
 
 - **Android Design**: 
 
-  - Covered how to use Adobe Xd for creating android apps design.
+  - Covered how to use Adobe XD for creating android apps design.
   - Discussed the material design guidelines.
   - Learnt about colour tool in "https://material.io/tools/color/" through which we can get hex codes for any colour.
 
