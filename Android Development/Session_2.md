@@ -1,6 +1,6 @@
 # ANDROID DEVELOPMENT: SESSION 2
 
-**Date** : 13/02/2019
+**Date** : 07/02/2019
 
 **Conducted by**: Perul Jain and Aman Pandey
 
