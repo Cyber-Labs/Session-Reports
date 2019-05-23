@@ -79,4 +79,5 @@ Link to Paper - [Going Deeper With Convolutions](https://arxiv.org/abs/1409.4842
 * _Top-5 Error_ : **6.67%** on both validation and testing data ranking 1st.
 	* VGG Error : 7.32% on testing data ranking 2nd. 
 
-
+# Credits
+_Summary compiled by: [Rishabh Tiwari](https://github.com/rishabh-16)_
