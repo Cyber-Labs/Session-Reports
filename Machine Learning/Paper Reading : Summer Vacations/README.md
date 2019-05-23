@@ -1,6 +1,6 @@
 
 # Paper Reading : Summer Vacations
-Paper Reading - Going Deeper With Convolutions (2014) 
+Paper Reading - Going Deeper With Convolutions by Szegedy et. al. (2014) 
 
 # Resources
 Link to Paper - [Going Deeper With Convolutions](https://arxiv.org/abs/1409.4842)
