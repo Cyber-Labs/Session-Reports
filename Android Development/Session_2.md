@@ -8,10 +8,10 @@
 
 - **Implementation of Retrofit Networking Library**: 
     - Covered its advantages over other libraries like Volley.
-    - Covered annotation @SerializedName which allows to create choice based variable names.
-    - Covered annotation @GET which allows to transfer data from client to server and carries request parameter appended                                    in URL string
-    - Covered annotation @POST which allows to  and carries request parameter in message body which makes it more secure way                            of transferring data from client to server in http protocol.
-    - Created a working application to fetch data from "https://api.github.com/users" in a pojo class. .
+    - Covered annotation @SerializedName which allows to specify the name of the field in the JSON.
+    - Covered annotation @GET which allows to fetch data and carries request parameter appended                                    in URL string
+    - Covered annotation @POST which allows to send data and carries request parameter in message body which makes it more secure way                            of transferring data from client to server in http protocol.
+    - Created a working application to fetch data from "https://api.github.com/users" in a POJO class.
 
 - **Interface**: 
 
@@ -20,4 +20,4 @@
 
 ## Tasks
 
-(a)  Create a simple News application by calling request to "https://newsapi.org/" using retrofit and show them in a Recycler View.
+(a)  Create a simple News application by calling request to "https://newsapi.org/" using retrofit and show them in a RecyclerView.
