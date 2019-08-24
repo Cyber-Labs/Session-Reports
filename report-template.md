@@ -14,6 +14,9 @@ Conducted on: {Date}
 ## Summary
 {A detailed summary of the session. Use markdown to add subheadings, bullet points as needed.}
 
+## Agenda for the next session
+{Briefly explain plans for the next session}
+
 ## Credits
 <!-- Include the Conducted by heading only if someone conducted the session. If it was a session without a specific instructor (For e.g., a common reading session or a mini-hackathon), ignore it. -->
 *Conducted by:* {Instructor}
