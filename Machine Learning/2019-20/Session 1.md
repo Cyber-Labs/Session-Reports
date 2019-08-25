@@ -42,6 +42,6 @@ Discussion about the schedule of future sessions, starting off the work on assig
 
 *Absentees*: 
 
-- Nirav, Osama, Ali, Udbhav - No reason provided
-- Tejus, Anjali - Interview
+- Nirav, Osama, Ali, Udbhav: No reason provided
+- Tejus, Anjali: Interview
 
