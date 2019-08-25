@@ -38,7 +38,7 @@ Discussion about the schedule of future sessions, starting off the work on assig
 
 *Report compiled by*: Suyog Jadhav
 
-*Attendees*: Ajay, Ali Asgar Saifee, Aniket, Ankesh, Anshuman, Arnav, Aryan, Ayush, Bharath Raj, Dev, Mihit, Nainesh, Prince, Pritam, Rishabh, Sachin, Suyog, Shivansh, Sonu, Yash
+*Attendees*: Ajay, Ali Asgar Saifee, Aniket, Ankesh, Anshuman, Arnav, Aryan, Ayush, Bharath Raj, Dev, Mihit, Nainesh, Prince, Pritam, Rishabh, Sachin, Shivansh, Sonu, Yash
 
 *Absentees*: 
 
