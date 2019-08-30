@@ -1,7 +1,7 @@
 <!-- 
  - Replace all the {} with their values. Name this file as Session {Session no.}.md (without braces) and submit a PR.
 -->
-# Session {Session no.}
+# Session 1
 Hardware Induction
 Conducted on: 30 - August - 2019
 
@@ -21,4 +21,4 @@ Next Session will be for the E Yantra Competition
 <!-- Include the Conducted by heading only if someone conducted the session. If it was a session without a specific instructor (For e.g., a common reading session or a mini-hackathon), ignore it. -->
 *Conducted by:* Hardware team
 
-*Report compiled by*: {Name of the member who compiled this report}
+*Report compiled by*: Nikhil Arora
