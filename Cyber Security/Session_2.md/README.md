@@ -17,7 +17,7 @@ Conducted on: 26-08-2019
 ## Agenda for the next session
 - Monday(2-9-19): Cyptopals set1 by Mayank kumar
 - Friday(6-9-19): Asm language(1) by Saswata Som
-- Monday(9-9-19): Forensics tools and some ctf writeups by Nirmit Shah
+- Monday(9-9-19): Forensics tools and some ctf problems by Nirmit Shah
 - Friday(13-9-19): Asm language(2) by Saswata Som
 
 ## Credits
