@@ -24,6 +24,6 @@ Conducted on: 03-09-2019
 
 *Report compiled by*: [Mayank Kumar](https://github.com/Mk-ism/)
 
-*Attendees*: Akshat, Abhishek, Ashish, Satyavart, Dolamanee, Nirmit, Saswata, Pawan, Mayank
+*Attendees*: Abhishek, Ashish, Satyavart, Dolamanee, Nirmit, Pawan, Mayank
 
-*Absentees*: Nil
+*Absentees*: Akshat, Saswata
