@@ -11,7 +11,7 @@ NA
 # Summary
 ## Ideas Discussed
 * **Diagnosis of diseases combined with biomedical Image captioning**
-  
+Assigned to Rishabh Tiwari, Aryan Raj; Rishabh Agarwal, Ridhish Jain (Web & Backend Development
   
 * **Krishi app for farmers** (On Hold)
 * **Q&A App** (On Hold)
