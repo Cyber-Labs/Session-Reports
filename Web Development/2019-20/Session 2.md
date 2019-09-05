@@ -7,7 +7,7 @@ Organised a workshop for 1st years on JavaScript and Client-Server model
 
 ## Resources
   Presentation of JavaScript <br>
-  Presentation of Client Server Model <br>
+  Presentation of Client Server Model : https://souravpd.github.io/Presentation/index.html<br>
   Code of to-do-list <br>
   (files attached in the Workshop folder)
 
