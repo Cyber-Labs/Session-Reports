@@ -6,9 +6,9 @@ Conducted on: 05.09.2019
 Organised a workshop for 1st years on JavaScript and Client-Server model
 
 ## Resources
-  Presentation of JavaScript
-  Presentation of Client Server Model
-  Code of to-do-list
+  Presentation of JavaScript <br>
+  Presentation of Client Server Model <br>
+  Code of to-do-list <br>
   (files attached in the Workshop folder)
 
 ## Summary
