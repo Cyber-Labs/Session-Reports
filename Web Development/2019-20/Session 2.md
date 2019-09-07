@@ -3,12 +3,12 @@ Workshop of Web Development - II
 Conducted on: 05.09.2019
 
 ## Agenda
-Organised a workshop for 1st years on JavaScript and Client-Server model
+A workshop for 1st years on JavaScript and Client-Server model was organised
 
 ## Resources
-  Presentation of JavaScript <br>
-  Presentation of Client Server Model : https://souravpd.github.io/Presentation/index.html<br>
-  Code of to-do-list <br>
+  Presentation of JavaScript 
+  Presentation of Client Server Model : https://souravpd.github.io/Presentation/index.html
+  Code of to-do-list 
   (files attached in the Workshop folder)
 
 ## Summary
@@ -22,5 +22,5 @@ Not discussed. Continued.
 
 *Attendees*: Anupriya, Naman, Chirag, Nikhil, Ridhish, Sourav, Aayush Dutt, Anurag
 
-*Absentees*: Saharsh, Nitish, Saloni, Kirti, shivam, Anushka, gaurav, prateek, sanyam
+*Absentees*: Saharsh, Nitish, Saloni, Kirti, shivam, Anushka, gaurav, prateek, sanyam, Naveen, Rajrani, Shubham, Sanket  
 
