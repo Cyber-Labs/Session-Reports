@@ -18,7 +18,7 @@ The task was distributed was:-<br>
 4). Add questions & Edit questions -- Saharsh<br>
 5). Manage contests -- Chirag<br>
 6). List of active contests & questions -- Naman<br>
-7). Notification(Backend & frontend) -- Sourav
+7). Notification (Backend & frontend) -- Sourav<br>
 
 
 ## Credits
