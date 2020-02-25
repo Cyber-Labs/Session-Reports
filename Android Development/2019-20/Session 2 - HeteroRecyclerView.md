@@ -13,4 +13,4 @@ Discussion was held on Hetero RecyclerView, and how to use it, and dessign it wa
 
 *Report compiled by*: Mrinal Pathak
 
-*Attendees*: Mrinal Pathak, Om Kumar, Pawan Raj, Akash Mahapatra, Dhruv Walia, Bhavesh Sharma, 
+*Attendees*: Mrinal Pathak, Om Kumar, Pawan Raj, Akash Mahapatra, Dhruv Walia, Bhavesh Sharma, Pratham Pahariya, Niharika Kumar, Eesha, Aashisha
