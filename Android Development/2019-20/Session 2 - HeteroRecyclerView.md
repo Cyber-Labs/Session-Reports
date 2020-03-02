@@ -6,7 +6,7 @@ Conducted on: 24/02/2020
 Learning the various features, uses and implementation of Hetero RecyclerView in Android Applications.
 
 ## Summary
-Discussion was held on Hetero RecyclerView, and how to use it, and dessign it was taught. Frequent mistakes in its implementation and its flow of execution was also discussed. Towards the end, discussion was held on doing projects and activeness.
+The discussion was held on how to use and design Heterogeneous RecyclerView. Frequent mistakes in its implementation and its flow of execution was also discussed. Towards the end, the discussion was held on doing projects and activeness.
 
 ## Credits
 *Conducted by:* Rishabh Agarwal, Sujay Kaushik
