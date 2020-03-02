@@ -1,6 +1,6 @@
 # Session 2
 Hetero RecyclerView
-Conducted on: 24/02//2020
+Conducted on: 24/02/2020
 
 ## Agenda
 Learning the various features, uses and implementation of Hetero RecyclerView in Android Applications.
