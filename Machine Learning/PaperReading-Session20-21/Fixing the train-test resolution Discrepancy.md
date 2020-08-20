@@ -1,5 +1,3 @@
-Fixing the train-test resolution Discrepancy
-
 # Paper Reading Session 2
 
 ## Fixing the train-test resolution Discrepancy
