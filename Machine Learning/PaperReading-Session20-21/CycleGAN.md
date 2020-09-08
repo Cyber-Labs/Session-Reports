@@ -6,8 +6,9 @@ Paper link: [CycleGAN](https://arxiv.org/abs/1703.10593)
 
 ### Introduction
 - Introduces an approach for learning to translate an image from a source domain X to a target domain Y in the absence of paired examples.
--	Goal is to learn a mapping G : X → Y such that the distribution of images from G(X) is indistinguishable from the distribution Y using an adversarial loss. Because this mapping is highly under-constrained, couples it with an inverse mapping F : Y → X and introduces a cycle consistency loss to enforce F(G(X)) ≈ X (and vice versa).
--	
+-	In absence of paired examples, we try to exploit supervision at the level of sets(input set X and output set Y). In theory, we can produce an output distribution Y' which distributes identically to Y but such a translation dosn't guarantee to pair an individual x and y in a meaningful way. Moreover, in practice, standard adversial objectives are difficult to optimise(e.g mode collapse)
+-	To overcome these problems, the author introduce the concept of "Cycle Consistency" which states that if we have a translator G : X → Y and another translator F : Y → X, then G and F should be inverses of each other. So, the model, in addition to the standard adversial loss, also has a cycle consistency loss which encour- ages F(G(x)) ≈ x and G(F(y)) ≈ y.
+- The model builds on the “pix2pix” frame-work which uses a conditional GAN to learn a mapping from input to output images.
 
 ### Formulation
 ![Diagram](https://media.geeksforgeeks.org/wp-content/uploads/20200529210740/cycleconsistencyandlosses.PNG)
