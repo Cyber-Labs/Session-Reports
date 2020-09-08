@@ -35,12 +35,14 @@ distribution as x ∼ pdata(x) and y ∼ pdata(y).our model includes two mapping
 - FCN: The FCN predicts a label map for a generated photo. This label map can then be compared against the input ground truth labels using standard semantic segmentation metric. The intuition is that if we generate a photo from a label map of “car on the road”, then we have succeeded if the FCN applied to the generated photo detects “car on the road”.
 - Semantic Segmentation Metric: per-pixel accuracy, per-class accuracy, and mean class Intersection-Over-Union
 
+### Conclusion
+
 
 
 
 
 ## Credits
-- Meeting by: [Udbhav Bamba](https://github.com/ubamba98)
+- Meeting conducted by: [Udbhav Bamba](https://github.com/ubamba98)
 - Paper explained by: [Prateek Bedre](https://github.com/pratikb2805)
-- Report by: [Taresh Rajput](https://github.com/taresh18)
+- Report compiled by: [Taresh Rajput](https://github.com/taresh18)
 - Dated 31/08/20
