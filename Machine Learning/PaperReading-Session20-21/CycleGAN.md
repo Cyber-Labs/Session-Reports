@@ -2,7 +2,7 @@
 **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks** by *Zhu, Jun Yan Park, Taesung Isola, Phillip Efros, Alexei A.*.
 
 ## Resources
-Paper link: https://arxiv.org/abs/1703.10593
+Paper link: [CycleGAN](https://arxiv.org/abs/1703.10593)
 
 ### Introduction
 - Introduces an approach for learning to translate an image from a source domain X to a target domain Y in the absence of paired examples.
@@ -10,7 +10,7 @@ Paper link: https://arxiv.org/abs/1703.10593
 -	
 
 ### Formulation
-
+![Diagram](https://media.geeksforgeeks.org/wp-content/uploads/20200529210740/cycleconsistencyandlosses.PNG)
 
 
 
