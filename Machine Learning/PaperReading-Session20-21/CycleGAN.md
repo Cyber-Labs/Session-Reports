@@ -11,8 +11,8 @@ Paper link: [CycleGAN](https://arxiv.org/abs/1703.10593)
 - The model builds on the “pix2pix” frame-work which uses a conditional GAN to learn a mapping from input to output images.
 
 ### Formulation
-![Diagram](https://media.geeksforgeeks.org/wp-content/uploads/20200529210740/cycleconsistencyandlosses.PNG)
 
+![Diagram](https://media.geeksforgeeks.org/wp-content/uploads/20200529210740/cycleconsistencyandlosses.PNG)
 
 - The Model includes two mappings G : X → Y and F : Y → X. In addition, two adversarial discriminators DX and DY, where DX aims to distinguish between images {x} and translated images {F(y)}; in the same way, DY aims to discriminate between {y} and {G(x)}
 - <ins>Adversial loss</ins>:  LGAN(G,D,X,Y) = Ey∼pdata(y)[logD(y)] + Ex∼pdata(x)[log(1 −D(G(x))]
@@ -23,6 +23,7 @@ It encourages F(G(x)) ≈ x and G(F(y)) ≈ y.
 
 
 ### Implementation
+
 #### Network Architecture: 
 - Generator: This network contains three convolutions, several residual blocks, two fractionally-strided convolutions with stride 1/2, and one convolution that maps features to RGB. It also uses <ins>Instance Normalization</ins> (normalizing across channel in each training example, so can be used in test time as well)
 - Discriminator: 70 × 70 PatchGANs which aim to classify whether 70 × 70 overlapping image patches are real or fake. Such a patch-level discriminator architecture has fewer parameters than a full-image discriminator and can work on arbitrarily sized images in a fully convolutional fashion.
