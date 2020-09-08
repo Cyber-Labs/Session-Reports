@@ -6,18 +6,19 @@ Paper link: [CycleGAN](https://arxiv.org/abs/1703.10593)
 
 ### Introduction
 - Introduces an approach for learning to translate an image from a source domain X to a target domain Y in the absence of paired examples.
--	In absence of paired examples, we try to exploit supervision at the level of sets(input set X and output set Y). In theory, we can produce an output distribution Y' which distributes identically to Y but such a translation dosn't guarantee to pair an individual x and y in a meaningful way. Moreover, in practice, standard adversial objectives are difficult to optimise(e.g mode collapse)
--	To overcome these problems, the author introduce the concept of "Cycle Consistency" which states that if we have a translator G : X → Y and another translator F : Y → X, then G and F should be inverses of each other. So, the model, in addition to the standard adversial loss, also has a cycle consistency loss which encour- ages F(G(x)) ≈ x and G(F(y)) ≈ y.
+-	In absence of paired examples, we try to exploit supervision at the level of sets(input set X and output set Y). In theory, we can produce an output distribution Y' which distributes identically to Y but such a translation dosn't guarantee to pair an individual x to the desired y. Moreover, in practice, standard adversial objectives are difficult to optimize (e.g mode collapse)
+-	To overcome these problems, the author introduce the concept of "Cycle Consistency" which states that if we have a translator G : X → Y and another translator F : Y → X, then G and F should be inverses of each other. So, the model, in addition to the standard adversial loss, also has a cycle consistency loss.
 - The model builds on the “pix2pix” frame-work which uses a conditional GAN to learn a mapping from input to output images.
 
 ### Formulation
 ![Diagram](https://media.geeksforgeeks.org/wp-content/uploads/20200529210740/cycleconsistencyandlosses.PNG)
 
 
-- Our goal is to learn mapping functions between two domains X and Y given training samples {xi}N i=1 where xi ∈ X and {yj}M j=1 where yj ∈ Y1. We denote the data
-distribution as x ∼ pdata(x) and y ∼ pdata(y).our model includes two mappings G : X → Y and F : Y → X. In addition, we in- troduce two adversarial discriminators DX and DY, where DX aims to distinguish between images {x} and translated images {F(y)}; in the same way, DY aims to discriminate between {y} and {G(x)}
-- Adversial loss: LGAN(G,D,X, Y) = Ey∼pdata(y)[logD(y)] + Ex∼pdata(x)[log(1 −DY(G(x))]
+- The Model includes two mappings G : X → Y and F : Y → X. In addition, two adversarial discriminators DX and DY, where DX aims to distinguish between images {x} and translated images {F(y)}; in the same way, DY aims to discriminate between {y} and {G(x)}
+- Adversial loss:  LGAN(G,D,X, Y) = Ey∼pdata(y)[logD(y)] + Ex∼pdata(x)[log(1 −DY(G(x))]
+G tries to generate images G(x) that look similar to images from domain Y, while DY aims to distinguish be- tween translated samples G(x) and real samples y
 - Cycle consistency loss: Lcyc(G,F) = Ex∼pdata(x)[||F(G(x)) − x1||] + Ey∼pdata(y)[||G(F(y)) − y1||].
+It encourages F(G(x)) ≈ x and G(F(y)) ≈ y.
 - Full objective: L(G,F,DX,DY) =LGAN(G,DY,X,Y) + LGAN(F,DX,Y,X) + λLcyc(G,F)
 
 - Removing the GAN loss substantially degrades results, as does removing the cycle-consistency loss. We therefore conclude that both terms are critical to our results. Using CycleGAN only in one direction often incurs training instability and causes mode collapse producing identical label maps regardless of the input photo, especially for the direction of the mapping that was removed
