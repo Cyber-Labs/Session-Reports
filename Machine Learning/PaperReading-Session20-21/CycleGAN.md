@@ -15,16 +15,16 @@ Paper link: [CycleGAN](https://arxiv.org/abs/1703.10593)
 
 
 - The Model includes two mappings G : X → Y and F : Y → X. In addition, two adversarial discriminators DX and DY, where DX aims to distinguish between images {x} and translated images {F(y)}; in the same way, DY aims to discriminate between {y} and {G(x)}
-- Adversial loss:  LGAN(G,D,X,Y) = Ey∼pdata(y)[logD(y)] + Ex∼pdata(x)[log(1 −D(G(x))]
+- <ins>Adversial loss</ins>:  LGAN(G,D,X,Y) = Ey∼pdata(y)[logD(y)] + Ex∼pdata(x)[log(1 −D(G(x))]
 For both individual mappings G and F, it has separate adversial loss. 
-- Cycle consistency loss: Lcyc(G,F) = Ex∼pdata(x)[||F(G(x)) − x1||] + Ey∼pdata(y)[||G(F(y)) − y1||].
+- <ins>Cycle consistency loss</ins>: Lcyc(G,F) = Ex∼pdata(x)[||F(G(x)) − x1||] + Ey∼pdata(y)[||G(F(y)) − y1||].
 It encourages F(G(x)) ≈ x and G(F(y)) ≈ y.
-- Full objective: L(G,F,DX,DY) = LGAN(G,DY,X,Y) + LGAN(F,DX,Y,X) + λLcyc(G,F)
+- <ins>Full objective</ins>: L(G,F,DX,DY) = LGAN(G,DY,X,Y) + LGAN(F,DX,Y,X) + λLcyc(G,F)
 
 
 ### Implementation
 #### Network Architecture: 
-- Generator: This network contains three convolutions, several residual blocks, two fractionally-strided convolutions with stride 1/2, and one convolution that maps features to RGB. It also uses Instance Normalization.
+- Generator: This network contains three convolutions, several residual blocks, two fractionally-strided convolutions with stride 1/2, and one convolution that maps features to RGB. It also uses <ins>Instance Normalization</ins> (normalizing across channel in each training example, so can be used in test time as well)
 - Discriminator: 70 × 70 PatchGANs which aim to classify whether 70 × 70 overlapping image patches are real or fake. Such a patch-level discriminator architecture has fewer parameters than a full-image discriminator and can work on arbitrarily sized images in a fully convolutional fashion.
 #### Training: 
 - For LGAN, the negative log likelihood objective is replaced by a least-squares loss. This loss is more stable during training and generates higher quality results. 
