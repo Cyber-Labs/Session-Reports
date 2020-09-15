@@ -50,4 +50,4 @@ To demonstrate the effectiveness of pre-trained deep feature representations tra
 
 ### Recommended
 
-Read the appendix of the paper to get a clear idea of the second point under Method
+Read the appendix of the paper to get a clear idea of the second point under Method.
