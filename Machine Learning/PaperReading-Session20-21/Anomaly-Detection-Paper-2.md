@@ -29,6 +29,9 @@ For a given test image y, K nearest normal images from the training set was retr
 Images are labelled at this stage as normal or anomalous. Positive classifica tion is determined by verifying if the kNN distance is larger than a threshold τ .
 
 - ###### Sub-image Anomaly Detection via Image Alignment And Feature Pyramid Matching
-For feature extraction, last M layers of Resnet was taken so as to capture both global context(from earlier ones) and fine-grained local features (from later ones).
+For feature extraction, last M layers of Resnet was taken so as to capture both global context(from earlier ones) and fine-grained local features (from later ones). Deep features at every pixel location p ∈ P using feature extractor F (x i , p) of the relevant test and normal training images were extracted and a gallery of features at all pixel locations of the K nearest neighbour is constructed. The anomaly score at pixel p, is given by the average distance between the features F (y, p) and its κ nearest features from the gallery. For a given threshold θ, a pixel is determined as anomalous if d(y, p) > θ, that is, if we cannot find a closely corresponding pixel in the K nearest neighbor normal images.
 
+```
+d(y, p) =  summation(||f − F (y, p)||^2)
+```
 
