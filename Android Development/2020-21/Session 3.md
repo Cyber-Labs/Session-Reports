@@ -50,7 +50,7 @@ used to refer to data element.
   @{() -> presenter.showList()} in this presenter.show() represents the method call and ()-> is the syntax for gamma function.
     
 #### Binding adapter
-    They are responsible for making appropriate framework calls to set values.
+They are responsible for making appropriate framework calls to set values.
     refer to https://developer.android.com/topic/libraries/data-binding/binding-adapters#java
     
 
