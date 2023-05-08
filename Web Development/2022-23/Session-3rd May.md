@@ -30,6 +30,7 @@ Ashritha Reddy Annadi
 Pratiksha Mishra	
 Saumya Subhra Nandi	
 Erum Fatima
+Raghvan Pareek
 
 FIRST YEAR:
 Anjana Gupta
