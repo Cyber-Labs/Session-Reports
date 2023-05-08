@@ -16,6 +16,7 @@ About placements and internship(off-campus and on-campus).
 FINAL YEAR:
 Sandeep Auddy
 Aman Dwivedi
+Aryan Karn
 
 PRE-FINAL YEAR:
 Harshit Agarwal
