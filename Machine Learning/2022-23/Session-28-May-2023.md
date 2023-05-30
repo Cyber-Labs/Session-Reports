@@ -22,6 +22,8 @@ Discussion on Statistics
 *Report compiled by*: Samyak Jha
 
 ## Attendees: 
+
 Second years :- Shobhit Gupta , Vaibhav Jain , Shreshth Sharma,Vishak Bhat
+
 First years :- Pranav Gupta, Anany Garg , Samyak Jha , Pratham Todi , Ganesh Talwar , Manav Jain ,
 Alok Raj ,Ozair Malakji,Neerukonda Sharvan Chowdary,Anant Upadhyay,Karaka Prasanth Naidu,Prachi Vakshi
