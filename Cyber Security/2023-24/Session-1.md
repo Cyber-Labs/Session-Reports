@@ -24,8 +24,10 @@ Conducted on: 05-08-2023
 Credits
 Conducted by: Jithendra Nadh
 Report compiled by: Sagnik Pal
+
 *Attendees*:
 - Ashish, Akshay, Abhinav, Ankur, Anushka, Adarsh, Debmalyo, Darshan, Nilabja,
 Sagnik
+
 *Absentees*:
 - None
