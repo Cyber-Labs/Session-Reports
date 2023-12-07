@@ -1,6 +1,6 @@
 # Session-1
-Introduction to Pentesting, TryHackMe Boxes
-Conducted on: 05-08-2023
+- Introduction to Pentesting, TryHackMe Boxes
+- Conducted on: 05-08-2023
 
 ## Agenda
 
