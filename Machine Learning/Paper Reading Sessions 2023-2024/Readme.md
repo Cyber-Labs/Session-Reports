@@ -1,1 +1,1 @@
-# Contains the research paper summaries for the various papers discussed by the batch of 2026.
+# Contains the research paper summaries for the various papers discussed between the years 2023-2024.
