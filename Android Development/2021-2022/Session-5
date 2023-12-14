@@ -1,0 +1,10 @@
+ SESSION-5 Date-19/6/2022 Time:10:30PM
+Discussion:
+1) View Model
+-discussion of implementation of view model and its importance ,how we can manage our data when the screen is rotated .Created one small project implementing the ViewModel class.
+2) Live Data -Discussion how we can use mutableLiveData to share data between two fragments and how we can use it to store our data during change in screen configuration Created one Project to use live data between two fragments.
+3)Debugger- Discussed how we can debug our code using debug option available in android studio.
+Credits:
+Conducted by-Abdullah sir, Bhavya sir
+Attendees-Abhay Kumar, Aditya Kumar, Anurag Rangan, Krishna Agarwal, Prajal Gupta, Sachin Shekhawat, Satwik Mohan, Tilakraj Baghel, Devineni Sri Venkatraya Chowdary,
+Vishal Shrivastava, Yashasvi Tripathi.
