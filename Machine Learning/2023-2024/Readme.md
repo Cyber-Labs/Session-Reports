@@ -1,1 +1,1 @@
-## Session Reports for meets conducted for the batch of 2026 between the years of 2023-2024 
+## Session Reports for meets conducted between the years of 2023-2024 
