@@ -1,0 +1,36 @@
+# Session 3
+View Binding and Data Binding with Introduction to Kotlin
+Conducted on: 13/06/2022
+
+## Agenda
+To learn the various uses, features and implementation of View Binding and Data Binding.
+
+## Summary
+The discussion was held on how to link view to the code directly without using findViewById instead using View Binding and Data Binding.
+
+## The following things were discussed: 
+      * Firstly, how to declare and initialise variables & values in Kotlin were discussed.
+      * Setting data binding and view binding: 
+          * In build.gradle--->buildFeatures---> dataBinding true, or viewBinding true. 
+          * Creation of a 'binding' variable in MainActivity.kt
+          * How to setContent view using Binding class instance and DataBindingUtil class.
+          * Use of <data> and <variable> tags and there attributes to give name and type to the variable in the xml.
+          * How to access variables in the data using binding.<variablename>.
+          
+      * Using this concept, we implemented it in a recyclerView.
+      * Made a viewHolder.xml for the view to be repeated.
+      * A data class & adapter for it was made.
+      * In the adapter, an inner class of type ViewHolder was made in which a list was made and the method for setting the recyclerview with the list was made
+      and the following methods were overriden:
+        * onCreateViewHolder
+        * onBindViewHolder
+        * getItemCount
+    *The list was modified in MainActivitya and the adapter was set to it.
+ The session was concluded with a small doubt clearing session.
+
+## Credits
+*Conducted by:* Anisha Datta, Saurav Kumar
+
+*Report compiled by*: Prajal Gupta
+
+*Attendees*: Abhay, Aditya, Anurag, Devineni, Krishna, Prajal, Sachin, Satwik, Tilakraj, Vishal, Yashasvi
