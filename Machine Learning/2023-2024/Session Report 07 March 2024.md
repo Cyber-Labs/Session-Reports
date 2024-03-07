@@ -12,4 +12,5 @@ Discussion of SimCLRv1 and SimCLRv2 paper by Neerukonda Sharvan Chowdary and Sam
 ## Attendees
  
 ● Pre-Final Years: Vaibhav Jain , Dheemant Dixit , Aryan Rajani 
+
 ● Second Years: Pranav Gupta, Anany Garg, Samyak Jha, Pratham Todi, Ganesh Talwar, Manav Jain, Ozair Malakji, Neerukonda Sharvan Chowdary, Anant Upadhyay, Karaka Prasanth Naidu, Prachi Vakshi, Yogita Singh
