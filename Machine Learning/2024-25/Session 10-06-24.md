@@ -6,7 +6,7 @@ Conducted on 10th June 2024
 
 Probability and Statistics
 
-## Summary:
+## Topics Discussed:
 
 tSNE, Probability Mass Functions, Probability Density Functions, Correlation, Central limit theorem, Sampling, Unbiased and Biased Estimators, Naive Bayes 
 
