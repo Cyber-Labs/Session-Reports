@@ -1,4 +1,4 @@
-# Session ofJeeveshe Learning Division of CyberLabs:
+# Session of Machine Learning Division of CyberLabs:
 
 Conducted on: 8th July 2024
 
