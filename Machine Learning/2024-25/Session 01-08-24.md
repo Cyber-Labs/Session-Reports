@@ -15,13 +15,13 @@ Next session would be conducted on 14th August.
 
 ## Task for the next session:-
 
-VGG and Google Le Net papers 
+ Discussion on VGG and Google Le Net papers.
 
 ## Attendees:-
 
-Pre Final Years- Manav Jain, Anany Garg
+Pre-Final Year- Manav Jain, Anany Garg
 
-Second Years- Green Kedia, Abhinav Jha, Daksh Mor, Dilshad Raza, Mohd. Ashaz Khan, Priyam Pritam Panda, Mukil M, Geeth Chand Chinni, Harshvardhan Saini, Jeevesh kumar
+Second Year- Green Kedia, Abhinav Jha, Daksh Mor, Dilshad Raza, Mohd. Ashaz Khan, Priyam Pritam Panda, Mukil M, Geeth Chand Chinni, Harshvardhan Saini, Jeevesh kumar
 
 ## Report compiled by: 
 
