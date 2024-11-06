@@ -22,7 +22,8 @@ Minutes of Meeting - 04/11/24
         7) Basic architecture of CCIP
    
 ## Task
-Make a basic smart contact using any one of chainlink developer tools.
+1. Make a basic smart contact using any one of chainlink developer tools.
+2. https://ethereum.org/en/whitepaper/ Task is to read Ethereum white paper.
 
 ## Credits
 *Conducted by:* Siva Sai.
