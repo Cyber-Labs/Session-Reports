@@ -23,7 +23,7 @@ Minutes of Meeting - 04/11/24
    
 ## Task
 1. Make a basic smart contact using any one of chainlink developer tools.
-2. https://ethereum.org/en/whitepaper/ Task is to read Ethereum white paper.
+2. https://ethereum.org/en/developers/docs/ read Ethereum docs.
 
 ## Credits
 *Conducted by:* Siva Sai.
