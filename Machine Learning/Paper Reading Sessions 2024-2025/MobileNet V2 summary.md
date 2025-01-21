@@ -1,20 +1,5 @@
 The two papers introduce different versions of MobileNets, which are efficient convolutional neural networks designed for mobile and embedded vision applications. Both papers focus on reducing computational cost and model size while maintaining reasonable accuracy.
 
-**MobileNet v1**
-
-*   **Core Idea:** MobileNet v1 is based on **depthwise separable convolutions**, which factorize a standard convolution into a depthwise convolution and a 1x1 pointwise convolution. This approach drastically reduces computation and model size.
-*   **Depthwise Separable Convolution:**
-    *   A standard convolution filters and combines inputs in one step, whereas depthwise separable convolution splits this into two layers: filtering and combining.
-    *   The depthwise convolution applies a single filter to each input channel.
-    *   The pointwise convolution then uses 1x1 convolutions to combine the outputs of the depthwise convolution.
-    *   This factorization reduces computation by a factor of 8 to 9 compared to standard convolutions.
-*   **Hyperparameters:** MobileNet v1 uses two hyperparameters to further reduce model size and computation:
-    *   **Width multiplier (α):** Thins the network uniformly at each layer, reducing the number of input and output channels. The computational cost and number of parameters is reduced quadratically by roughly α².
-    *   **Resolution multiplier (ρ):** Reduces the input image resolution and the internal representation of every layer. It reduces the computational cost by ρ².
-*   **Network Structure:** The MobileNet architecture consists of depthwise separable convolutions, except for the first layer which is a full convolution. Each layer is followed by batch normalization and ReLU nonlinearity. Downsampling is handled with strided convolutions.
-*  **Training:** MobileNet models were trained using RMSprop with asynchronous gradient descent. The training process uses less regularization and data augmentation since small models are less prone to overfitting.
-*   **Applications:** MobileNet v1 demonstrates effectiveness across various tasks including image classification, object detection, fine-grained classification, face attributes and large-scale geo-localization.
-
 **MobileNet v2**
 
 *   **Core Idea**: MobileNet v2 introduces the **inverted residual with linear bottleneck**. This module expands a low-dimensional compressed representation to a higher dimension, filters with depthwise convolution, and then projects back to a low-dimensional representation with a linear convolution.
