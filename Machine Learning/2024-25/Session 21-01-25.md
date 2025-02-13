@@ -1,23 +1,21 @@
-# Session of Machine Learning Division of CyberLabs  
-**Conducted on:** 17 January 2025  
-**Time:** 7 PM  
-**Mode:** Offline  
+# Session of Machine Learning Division of CyberLabs:
 
-## Agenda  
-1. **"Attention is All You Need":** Discussed the research paper introducing the Transformer model, which relies solely on self-attention mechanisms to process sequences.  
-2. Discussed the use of multi-head attention, positional encodings, and layer normalization, eliminating the need for recurrence or convolution.  
-3. Discussed the architecture of the encoder and decoder and their working.  
+Conducted on 21st January 2025
+## Agenda of Meet
+Implementation of attention 
 
-## Agenda for the next session  
-**Implementation of Attention Mechanism**  
+## Summary
+Demonstrated the implementation of Attention using OOPs
 
-## Next Session Details  
-**Date:** 21 January 2025  
+Next session would be conducted on 29th January.
+Task to be Completed by the next session: BERT and GPT papers 
 
-## Credits  
-**Report Compiled by:** Priyam Pritam Panda  
+## Attendees:
+Pre Final Years- samyak Jha, Manav Jain, Karaka Prasanth Naidu
 
-## Attendees  
-**Second Year Attendees:** All present  
+Second Years-Green Kedia, Abhinav Jha, Daksh Mor, Dilshad Raza, Mohd. Ashaz Khan, Priyam Pritam Panda, Mukil M, Harshvardhan Saini, Jeevesh kumar
 
-**Pre-final Year Attendees:** Samyak Jha, Manav Jain, Karaka Prasanth Naidu  
+Absentees - Geeth Chand Chinni
+
+## Report by
+Geeth Chand Chinni
