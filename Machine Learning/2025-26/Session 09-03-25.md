@@ -20,6 +20,7 @@ Anukul Tiwari
 
 ## Attendees
 Second Year Attendees: Green Kedia, Mukil M, Harshvardhan Saini, Daksh Mor, Mohd. Ashaz Khan, Priyam Pritam Panda
+
 First Year Attendees: Anab, Arnav, Ritesh, Rajat, Arjav, Abhishek, Ayushman, Sreenandan, Anukul
 
 ## Absentees
