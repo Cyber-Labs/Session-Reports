@@ -16,7 +16,7 @@ mlcourse. ai (Topic 1 and 2);
 Kaggle Playground Submission
 
 ## Report Compiled by
-Ayushman Dutta
+Ayushman Dutta
 
 ## Attendees
 3rd year: Samyak Jha Sir, Karaka Prasanth Naidu Sir.
