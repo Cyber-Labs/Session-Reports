@@ -15,14 +15,16 @@ mlcourse.ai (Topic 3) and 3 Kaggle Courses
 8. Addressed the concepts of target leakage and train-test contamination problems.
 
 ## Agenda for the next session
-mlcourse. ai (Topic 4)
+* mlcourse. ai (Topic 4)
 
 ## Report Compiled by
-Rajat Nandkumar Shedshyal
+Rajat Nandkumar Shedshyal
 
 ## Attendees
-3rd year: Harshvardhan Saini Sir, Green Kedia Sir, Mukil M Sir, Dilshad Raza Sir, Priyam Pritam Panda Sir
-2nd year: Anab, Arnav, Arjav Anukul, Abhishek, Ritesh, Rajat, Sreenandan, Ayushman
+3rd year: Harshvardhan Saini Sir, Green Kedia Sir, Mukil M Sir, Dilshad Raza Sir, Priyam Pritam Panda Sir. 
+
+2nd year: Anab, Arnav, Arjav Anukul, Abhishek, Ritesh, Rajat, Sreenandan, Ayushman. 
+
 Absentees:
 2nd year: None
 

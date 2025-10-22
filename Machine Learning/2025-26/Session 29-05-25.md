@@ -14,15 +14,17 @@ mlcourse.ai (Topic 4)
 7. Logistic Regression's effectiveness in various scenarios
 
 ## Agenda for the next session
-mlcourse.ai (Topic 5 and 6)
+* mlcourse.ai (Topic 5 and 6)
 
 ## Report Compiled by
-Ayushman Dutta
+Ayushman Dutta
 
 ## Attendees
-Final year: Karaka Prasanth Naidu Sir, Manav Jain Sir
-3rd year: Harshvardhan Saini Sir, Green Kedia Sir, Mukil M Sir, Dilshad Raza Sir
-2nd year: Anab, Arnav, Arjav Anukul, Abhishek, Ritesh, Rajat, Sreenandan, Ayushman
+Final year: Karaka Prasanth Naidu Sir, Manav Jain Sir. 
+
+3rd year: Harshvardhan Saini Sir, Green Kedia Sir, Mukil M Sir, Dilshad Raza Sir. 
+
+2nd year: Anab, Arnav, Arjav Anukul, Abhishek, Ritesh, Rajat, Sreenandan, Ayushman.
 
 ## Absentees
 Second Year: None

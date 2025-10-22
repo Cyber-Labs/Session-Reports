@@ -21,7 +21,7 @@ Discussion of mlcourse.ai (Part 1 and 2)
 * 3 Kaggle Courses
 
 ## Report Compiled by
-Anukul Tiwari
+Anukul Tiwari
 
 ## Attendees
 3rd year: Samyak Jha Sir, Karaka Prasanth Naidu Sir.
